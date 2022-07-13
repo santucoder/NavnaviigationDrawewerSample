@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/santu/AndroidStudioProjects/NavigationDrawewerSample/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/Users/santu/AndroidStudioProjects/NavigationDrawewerSample/app/src/main/res/layout/app_bar.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/santu/AndroidStudioProjects/NavigationDrawewerSample/app/src/main/res/layout/app_bar_main.xml" value="0.152" />
+        <entry key="..\:/Users/santu/AndroidStudioProjects/NavigationDrawewerSample/app/src/main/res/layout/conent_main.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/santu/AndroidStudioProjects/NavigationDrawewerSample/app/src/main/res/layout/content_main.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/santu/AndroidStudioProjects/NavigationDrawewerSample/app/src/main/res/layout/fragment_a.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/santu/AndroidStudioProjects/NavigationDrawewerSample/app/src/main/res/layout/header_iay.xml" value="0.23125" />
+        <entry key="..\:/Users/santu/AndroidStudioProjects/NavigationDrawewerSample/app/src/main/res/menu/navigation_items.xml" value="0.1905982905982906" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
